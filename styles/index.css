@@ -15,7 +15,7 @@ svg {
     width: 50px;
     -webkit-animation: rotate 1s linear infinite;
     -moz-animation: rotate 1s linear infinite;
-    animation: rotate 1s linear infinite;
+    animation: rotate 1s linear infinite ;
 }
 
 @-moz-keyframes rotate { 
